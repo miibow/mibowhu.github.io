@@ -1,2 +1,2 @@
 # mibow.github.io
-mibow blog
+ mibow blog
