@@ -27,7 +27,7 @@
 $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 ```
 
-**[在这里预览模板 &rarr;](http://mibowhu.github.io/huxblog-boilerplate/)**
+**[在这里预览模板 &rarr;](http://hux.github.io/huxblog-boilerplate/)**
 
 ## 各版本特性
 
