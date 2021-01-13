@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: mibow@gmail.com
 description: "描述。"
 keyword: "关键词。"
-url: "https://mibow.me"              # your host, for absolute URL
+url: "https://github.com/miibow/mibowhu.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -14,9 +14,9 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     mibow_hu
-zhihu_username:     mibowpro
-github_username:    mibowpro
-twitter_username:   mibowpro
+zhihu_username:     mibow_hu
+github_username:    mibow_hu
+twitter_username:   mibow_hu
 #facebook_username:  mibowpro
 #linkedin_username:  firstname-lastname-idxxxx
 
