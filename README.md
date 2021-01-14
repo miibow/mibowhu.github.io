@@ -1,2 +1,2 @@
 # Mibow Blog
-hello
+hmjaqyy.me
