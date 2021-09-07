@@ -1,7 +1,11 @@
-I"<
+I"d
 <p>组合算法（递归）</p>
 
-<p>思路!<img src="/img/math/alg_lua_combo.png" alt="" /></p>
+<blockquote>
+  <p>思路:</p>
+
+  <p><img src="/img/math/alg_lua_combo.png" alt="" /></p>
+</blockquote>
 
 <div class="language-lua highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">--math tool:bit map combination for C(n,m)</span>
 <span class="c1">---@param n  </span>
