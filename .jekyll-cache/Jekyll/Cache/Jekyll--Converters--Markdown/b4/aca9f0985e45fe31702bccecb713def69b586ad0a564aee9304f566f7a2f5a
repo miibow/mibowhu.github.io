@@ -1,0 +1,13 @@
+I"m<h1 id="mvc与mvvm">MVC与MVVM</h1>
+
+<h4 id="mvc">MVC</h4>
+
+<p><strong>MVC</strong>中的<strong>M</strong>就是单纯的从网络获取回来的数据模型，<strong>V</strong>指的我们的视图界面，而<strong>C</strong>就是我们的ViewController。</p>
+
+<p>在其中，ViewController负责View和Model之间调度，View发生交互事件会通过target-action或者delegate方式回调给ViewController，与此同时ViewController还要承担把Model通过KVO、Notification方式传来的数据传输给View用于展示的责任。***随着业务越来越复杂，视图交互越复杂，导致Controller越来越臃肿，负重前行。脏活累活都它干了，到头来还一点不讨好。福报修多了的结果就是，不行了就重构你，重构不了就换掉你。</p>
+
+<p><img src="C:\Users\lxx\Pictures\typora\1" alt="img" /></p>
+
+<p>MVVM</p>
+
+:ET

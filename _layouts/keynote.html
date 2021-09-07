@@ -136,6 +136,17 @@ layout: default
                     {% endfor %}
                 </ul>
                 {% endif %}
+
+                <!-- games link -->
+                {% if site.games %}
+                <hr>
+                <h5>GAMES</h5>
+                <ul class="list-inline">
+                    {% for game in site.games %}
+                        <li><a href="{{game.href}}">{{game.title}}</a></li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
             </div>
         </div>
     </div>

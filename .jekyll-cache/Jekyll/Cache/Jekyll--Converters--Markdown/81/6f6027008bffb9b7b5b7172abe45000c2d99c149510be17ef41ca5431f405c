@@ -1,0 +1,29 @@
+I"�<h1 id="程序设计思考">程序设计思考</h1>
+
+<h4 id="程序的本质">程序的本质</h4>
+
+<ol>
+  <li>收集数据</li>
+  <li>加工数据</li>
+  <li>存储数据</li>
+  <li>显示数据</li>
+</ol>
+
+<h4 id="收集数据">收集数据</h4>
+
+<p>​	收集的数据的速度和难度，即使存储形式与查询方式的组合问题</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1. 多个容器存储实体与类型信息（读取友好）
+ 	2. 单个容器存储实体（内存友好）
+</code></pre></div></div>
+
+<h4 id="数据的使用">数据的使用</h4>
+
+ 	1. 数据的检查
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  	1. 数据的合法性条件检查
+  	2. 数据的逻辑性条件判断
+ 	2. 数据修改
+ 	3. 数据的保存
+ 	4. 数据的显示
+</code></pre></div></div>
+:ET

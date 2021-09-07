@@ -2,7 +2,7 @@
 title: Mibow Blog
 SEOTitle: Mibow的博客 | Mibow Blog
 header-img: img/home-bg.jpg
-email: mibow@gmail.com
+email: mibowhu@gmail.com
 description: ""
 keyword: ""
 url: "https://hmjaqyy.me"              # your host, for absolute URL
@@ -86,5 +86,13 @@ friends: [
     },{
         title: "Foo",
         href: "#"
+    }
+]
+
+# Games
+games: [
+    {
+        title: "2048",
+        href: ""
     }
 ]
