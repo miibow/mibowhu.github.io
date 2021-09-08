@@ -98,6 +98,6 @@ games: [
         href: ""
     },{
         title: "人生重开模拟器",
-        href: "https://hmjaqyy.me/_games/lifeRestart-master/view/index.html"
+        href: "/games/lifeRestart/view/"
     }
 ]
