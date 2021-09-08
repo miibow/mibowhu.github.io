@@ -6,7 +6,9 @@ email: mibowhu@gmail.com
 description: ""
 keyword: ""
 url: "https://hmjaqyy.me"              # your host, for absolute URL
+# url: "http://127.0.0.1:4000/"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
+# baseurl: "http://127.0.0.1:4000/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -81,7 +83,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
+        title: "mibow Blog",
         href: "http://hmjaqyy.me"
     },{
         title: "Foo",
@@ -96,6 +98,6 @@ games: [
         href: ""
     },{
         title: "人生重开模拟器",
-        href: "#"
+        href: "https://hmjaqyy.me/_games/lifeRestart-master/view/index.html"
     }
 ]

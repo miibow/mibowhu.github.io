@@ -2136,7 +2136,7 @@ inherits@2.0.3:
 internal-ip@^6.2.0:
   version "6.2.0"
   resolved "https://registry.yarnpkg.com/internal-ip/-/internal-ip-6.2.0.tgz#d5541e79716e406b74ac6b07b856ef18dc1621c1"
-  integrity sha512-D8WGsR6yDt8uq7vDMu7mjcR+yRMm3dW8yufyChmszWRjcSHuxLBkR3GdS2HZAjodsaGuCvXeEJpueisXJULghg==
+  integrity sha512-D8WGsR6yDt8uq7vDMu7mjcR+yRMm3dW8yufyChmszWRjcSmibowLBkR3GdS2HZAjodsaGuCvXeEJpueisXJULghg==
   dependencies:
     default-gateway "^6.0.0"
     ipaddr.js "^1.9.1"

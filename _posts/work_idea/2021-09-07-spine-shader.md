@@ -1,5 +1,14 @@
-# Spine的纹理压缩和半透显示
-
+---
+title: "Spine的纹理压缩和半透显示"
+subtitle: "学习一下spine的纹理相关"
+date: 2018-05-29 12:00:00
+layout: post
+author: "aibow"
+header-style: text
+tags:
+  - spine
+  - learning
+---
 ![img](https://oscimg.oschina.net/oscnet/26359ed4e5dab41ab86791aec03bee5a051.jpg)
 
 ## 纹理压缩
